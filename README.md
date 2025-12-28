@@ -31,5 +31,5 @@
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=본인깃허브아이디입력&style=flat-square&color=blueviolet&label=VIEWS" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=SJ-EduLab&style=flat-square&color=blueviolet&label=VIEWS" alt="views"/>
 </div>
