@@ -1,4 +1,4 @@
-### 👋 Hello, World! I'm SEOJINLEE.
+### 👋 Hello, World! I'm SEOJIN LEE.
 
 <div align="center">
 
